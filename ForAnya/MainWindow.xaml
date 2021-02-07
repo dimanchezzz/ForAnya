@@ -106,5 +106,6 @@
         <Button Content="Проверить" Name="checck" HorizontalAlignment="Left" Margin="574,512,0,0" VerticalAlignment="Top" Click="Button_Click" Width="267"/>
         <Button Content="Далее" HorizontalAlignment="Left" Name="next"  Click="next_Click" Visibility="Hidden" Margin="925,512,0,0" VerticalAlignment="Top" Width="157"/>
         <TextBlock HorizontalAlignment="Left" Margin="1110,527,0,0" TextWrapping="Wrap" Text="by Dima" VerticalAlignment="Top"/>
+        <Label Content="Регистр не важен, но лучше вводить в нижнем регистре))" HorizontalAlignment="Left" Margin="574,10,0,0" VerticalAlignment="Top" Width="351" Height="29"/>
     </Grid>
 </Window>
